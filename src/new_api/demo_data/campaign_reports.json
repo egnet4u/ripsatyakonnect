@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "achieved_engagement": 0,
+            "achieved_reach": 0,
+            "business_account": 0,
+            "campaign_name": "CN_3_March_2022_Nishant test",
+            "campaign_post_count": 0,
+            "comments_count": 0,
+            "cpe": 0,
+            "expected_engagement": 32117298,
+            "expected_reach": 76892498,
+            "influencers_count": 1,
+            "likes_count": 0,
+            "plannned_content": 5,
+            "verified_account": 1,
+            "views_count": 0
+        }
+    ],
+    "status": true
+}

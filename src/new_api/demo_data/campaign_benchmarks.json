@@ -1,0 +1,27 @@
+{
+    "data": {
+        "average_cpe": 0,
+        "average_engagement": 0,
+        "average_reach": 0,
+        "current_cpe": 0,
+        "current_engagement": 0,
+        "current_reach": 0,
+        "influencer_data": [
+            {
+                "current_influencer_cpe": 0,
+                "current_influencer_engagement": 0,
+                "current_influencer_reach": 0,
+                "instagram_followers": 295592949,
+                "instagram_handle": "arianagrande",
+                "instagram_profile_pic_url": "https://ripplekonnect.s3-us-west-2.amazonaws.com/profilepic/arianagrande/arianagrande_2021-09-27_22-51-07_UTC_profile_pic.jpg",
+                "instagram_total_engagement_rate": 2.1,
+                "last_average_cpe": 0,
+                "last_average_engagement": 6245825,
+                "last_average_reach": 12491650
+            }
+        ],
+        "viral_influencers": [],
+        "viral_margin": 15
+    },
+    "status": true
+}

@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "category_distribution_data": {},
+            "female_comments": 0,
+            "female_count": 1,
+            "female_engagement": 0,
+            "female_likes": 0,
+            "female_reach": 0,
+            "female_views": 0,
+            "male_comments": 0,
+            "male_count": 0,
+            "male_engagement": 0,
+            "male_likes": 0,
+            "male_reach": 0,
+            "male_views": 0,
+            "statewise_count": {
+                "ANDAMAN AND NICOBAR ISLANDS": 0,
+                "ANDHRA PRADESH": 0,
+                "ARUNACHAL PRADESH": 0,
+                "ASSAM": 0,
+                "BIHAR": 0,
+                "CHANDIGARH": 0,
+                "CHHATTISGARH": 0,
+                "DADRA AND NAGAR HAVELI": 0,
+                "DAMAN AND DIU": 0,
+                "DELHI": 0,
+                "GOA": 0,
+                "GUJARAT": 0,
+                "HARYANA": 0,
+                "HIMACHAL PRADESH": 0,
+                "JAMMU AND KASHMIR": 0,
+                "JHARKHAND": 0,
+                "KARNATAKA": 0,
+                "KERALA": 0,
+                "LAKSHADWEEP": 0,
+                "MADHYA PRADESH": 0,
+                "MAHARASHTRA": 0,
+                "MANIPUR": 0,
+                "MEGHALAYA": 0,
+                "MIZORAM": 0,
+                "NAGALAND": 0,
+                "ODISHA": 0,
+                "OTHERS": 1,
+                "PUDUCHERRY": 0,
+                "PUNJAB": 0,
+                "RAJASTHAN": 0,
+                "SIKKIM": 0,
+                "TAMIL NADU": 0,
+                "TELANGANA": 0,
+                "TRIPURA": 0,
+                "UTTAR PRADESH": 0,
+                "UTTARAKHAND": 0,
+                "WEST BENGAL": 0
+            },
+            "tier_distribution_data": {
+                "0": {
+                    "comments": 0,
+                    "engagement": 0,
+                    "likes": 0,
+                    "number_of_influencers": 1,
+                    "reach": 0,
+                    "views": 0
+                }
+            }
+        }
+    ],
+    "status": true
+}

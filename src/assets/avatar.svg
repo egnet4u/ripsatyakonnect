@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_9" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Clip_7" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Clip_13" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}.cls-5{clip-path:url(#clip-path)}.cls-6{fill:#870b16}.cls-7{clip-path:url(#clip-path-3)}.cls-9{fill:#f2d7bc}.cls-10{fill:#eac0a7}.cls-11{fill:#fff200}
+        </style>
+    </defs>
+    <circle id="Oval" cx="12" cy="12" r="12" fill="#e7e7e7"/>
+    <g id="Group_52" transform="translate(1.5 1.5)">
+        <g id="Group_5">
+            <path id="Fill_1" fill="#b5332b" d="M21 10.438a10.5 10.5 0 1 0-10.5 10.439A10.469 10.469 0 0 0 21 10.438" transform="translate(0 .104)"/>
+            <path id="Fill_3" fill="#a22d26" d="M10.5 10.438A10.469 10.469 0 0 0 0 0v20.877a10.469 10.469 0 0 0 10.5-10.439" transform="translate(10.5 .104)"/>
+        </g>
+        <g id="Group_51">
+            <g id="Group_8">
+                <path id="Clip_7-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_8-2" class="cls-5">
+                    <path id="Fill_6" d="M4.866 10.331H1.11a4.111 4.111 0 0 1-.867-4.179C1.11 3.656 1.861 2.67 1.919 0h2.947z" class="cls-6" transform="translate(5.653 8.076)"/>
+                </g>
+            </g>
+            <g id="Group_11">
+                <path id="Clip_10-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_11-2" class="cls-5">
+                    <path id="Fill_9" d="M0 10.331h3.756a4.111 4.111 0 0 0 .867-4.179C3.756 3.656 3.005 2.67 2.947 0H0z" class="cls-6" transform="translate(10.422 8.076)"/>
+                </g>
+            </g>
+            <g id="Group_14">
+                <path id="Clip_13-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_14-2" class="cls-7">
+                    <path id="Fill_12" d="M9.191 4.615A4.6 4.6 0 1 0 4.6 9.231a4.605 4.605 0 0 0 4.6-4.615" class="cls-6" transform="translate(5.924 2.329)"/>
+                </g>
+            </g>
+            <g id="Group_17">
+                <path id="Clip_16-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_17-2" class="cls-5">
+                    <path id="Fill_15" fill="#eac8ad" d="M3.075 3.386L1.518 7.773 0 3.386V0h3.075z" transform="translate(8.982 13.442)"/>
+                </g>
+            </g>
+            <g id="Group_20">
+                <path id="Clip_19-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_20-2" class="cls-5">
+                    <path id="Fill_18" d="M3.854 0C2.361 0 0 .852 0 4.847a5.613 5.613 0 0 0 1.221 3.811 5.55 5.55 0 0 0 2.633 1.628z" class="cls-9" transform="translate(6.665 4.057)"/>
+                </g>
+            </g>
+            <g id="Group_23">
+                <path id="Clip_22-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_23-2" class="cls-7">
+                    <path id="Fill_21" d="M.009 1.27C-.057.632.246.066.685.005s.849.408.915 1.046-.237 1.2-.676 1.265S.075 1.908.009 1.27" class="cls-9" transform="translate(5.914 8.586)"/>
+                </g>
+            </g>
+            <g id="Group_26">
+                <path id="Clip_25-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_26-2" class="cls-5">
+                    <path id="Fill_24" d="M0 0c1.493 0 3.854.852 3.854 4.847a5.613 5.613 0 0 1-1.221 3.811A5.55 5.55 0 0 1 0 10.286z" class="cls-10" transform="translate(10.507 4.057)"/>
+                </g>
+            </g>
+            <g id="Group_29">
+                <path id="Clip_28-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_29-2" class="cls-7">
+                    <path id="Fill_27" d="M1.6 1.27C1.666.632 1.363.066.924.005S.075.413.009 1.051s.237 1.2.676 1.265.849-.408.914-1.046" class="cls-10" transform="translate(13.516 8.586)"/>
+                </g>
+            </g>
+            <g id="Group_32">
+                <path id="Clip_31-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_32-2" class="cls-7">
+                    <path id="Fill_30" d="M3.993.016A1.9 1.9 0 0 0 3.766 0S1.245.19.543 3.488A1.683 1.683 0 0 0 .4 5.828a2.149 2.149 0 0 1 1.041-1.861C2.483 3.512 2.912 3.935 4.119 3a2.423 2.423 0 0 0 .8-2.247 1.112 1.112 0 0 0-.926-.737" class="cls-6" transform="translate(6.476 3.073)"/>
+                </g>
+            </g>
+            <g id="Group_35">
+                <path id="Clip_34-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_35-2" class="cls-7">
+                    <path id="Fill_33" d="M.09.033s-.909 3.406 3.06 4.832C4.1 1.747 2.363-.287.09.033" class="cls-6" transform="translate(11.148 3.973)"/>
+                </g>
+            </g>
+            <g id="Group_38">
+                <path id="Clip_37-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_38-2" class="cls-5">
+                    <path id="Fill_36" d="M.247 0L0 .249.247.5.495.249z" class="cls-11" transform="translate(6.471 10.516)"/>
+                </g>
+            </g>
+            <g id="Group_41">
+                <path id="Clip_40-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_41-2" class="cls-5">
+                    <path id="Fill_39" d="M.247 0L0 .249.247.5.495.249z" class="cls-11" transform="translate(14.126 10.516)"/>
+                </g>
+            </g>
+            <g id="Group_44">
+                <path id="Clip_43-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_44-2" class="cls-5">
+                    <path id="Fill_42" fill="#f8a41d" d="M5.18 6.245V2.027A2.033 2.033 0 0 1 3.78.808 3.308 3.308 0 0 1 3.662 0S1.154.851.594 1.73A23.332 23.332 0 0 0 0 6.245z" transform="translate(5.32 14.97)"/>
+                </g>
+            </g>
+            <g id="Group_47">
+                <path id="Clip_46-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545 10.523 10.523 0 0 0 10.5 0z" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_47-2" class="cls-5">
+                    <path id="Fill_45" fill="#f98e1c" d="M0 6.245V2.027A2.033 2.033 0 0 0 1.4.808 3.308 3.308 0 0 0 1.518 0s2.508.851 3.068 1.73a23.332 23.332 0 0 1 .594 4.515z" transform="translate(10.5 14.97)"/>
+                </g>
+            </g>
+            <g id="Group_50">
+                <path id="Clip_49-2" d="M10.5 0A10.523 10.523 0 0 0 0 10.545a10.523 10.523 0 0 0 10.5 10.546A10.523 10.523 0 0 0 21 10.545" class="cls-1" transform="translate(0 .105)"/>
+                <g id="Group_50-2" class="cls-7">
+                    <path id="Fill_48" fill="#fff" d="M1.054.8A.954.954 0 0 0 2.108 0H0a.954.954 0 0 0 1.054.8" transform="translate(9.466 12.135)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

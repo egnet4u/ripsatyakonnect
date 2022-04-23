@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "carousel_delivered": 0,
+            "carousel_total": 0,
+            "custom_delivered": 0,
+            "custom_total": 0,
+            "igtv_delivered": 0,
+            "igtv_total": 1,
+            "image_delivered": 0,
+            "image_total": 1,
+            "reels_delivered": 0,
+            "reels_total": 1,
+            "sstory_delivered": 0,
+            "sstory_total": 0,
+            "video_delivered": 0,
+            "video_total": 1,
+            "vstory_delivered": 0,
+            "vstory_total": 1
+        }
+    ],
+    "status": true
+}
